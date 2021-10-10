@@ -5,7 +5,7 @@ import Product from './Product/Product';
 
 const products = [
     { id:1, name: 'Shoes', description: 'Running shoes', price: '$150' },
-    { id:2, name: 'Macbook', description: 'Apple Macbook', price:'$2000' }
+    { id:2, name: 'Macbook', description: 'Apple Macbook', price:'$2000', image:"https:/pisces.bbystatic.com/image2/BestBuy_US/images/products/6418/6418601_sd.jpg;maxHeight=300;maxWidth=450" }
 ];
 
 const Products = () => {
